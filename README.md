@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=EA638C&width=435&height=30&lines=hi%2C+i'm+renita!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=EA638C&width=435&height=30&lines=Hi%2C+I'm+Renita!)](https://git.io/typing-svg)
 
 I'm goint into my 3rd year at UC San Diego studying mathematics and computer science. I love learning about the expansive world of computer science through my coursework, internships, and personal projects! Currently, I'm diving deeper into data science by learning how to build machine learning models. As I work towards becoming a better developer, I'm excited to learn new technologes, work on innovative projects, and contribute to impactful software.
 
@@ -16,6 +16,8 @@ I'm going on a new sidequest! I love a fun drink (matcha or coffee), shopping, a
 
 ## Contact me ⭐️
 Email: renita.justin@gmail.com | Linkedin: www.linkedin.com/in/renita-justin 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31onn24veiv4iqafemikynupd7ou&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <!--
