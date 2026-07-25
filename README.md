@@ -1,14 +1,22 @@
 ## Hi, I'm Renita! 👩‍💻
 
-# Studying Mathematics and Computer Science at UC San Diego 
+## Studying Mathematics and Computer Science at UC San Diego 
 I love learning about the expansive world of computer science through my coursework, internships, and personal projects! Currently, I'm diving deeper into data science by learning how to build machine learning models. As I work towards becoming a better developer, I'm excited to learn new technologes, work on innovative projects, and contribute to impactful software.
 
-# My tech stack
-☆ Python
-☆ Java
-☆ Javascript
-☆ React
+## My tech stack
+☆ Python  
+☆ Java  
+☆ Javascript  
+☆ React  
 
+## What I'm working on
+As a break through tech fellow, I am currently learning machine learning foundations through an interactive course. I've gotten the opportunity to learn concepts like KNN, decision trees, logistic regression and so much more! I'm currently applying these concepts by developing a hands-on project that combines machine learning with full-stack development, giving me the opportunity to strengthen both my technical skills and my understanding of how these algorithms work in practice.
+
+## When I'm not coding...
+I'm going on a new sidequest! I love a fun drink (matcha or coffee), shopping, and listening to music. Currently on a mission to explore New York. 
+
+## Contact me!
+Email: renita.justin@gmail.com | Linkedin: www.linkedin.com/in/renita-justin 
 
 
 <!--
