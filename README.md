@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Renita!)](https://git.io/typing-svg) 
+
 I'm goint into my 3rd year at UC San Diego studying mathematics and computer science. I love learning about the expansive world of computer science through my coursework, internships, and personal projects! Currently, I'm diving deeper into data science by learning how to build machine learning models. As I work towards becoming a better developer, I'm excited to learn new technologes, work on innovative projects, and contribute to impactful software.
 
 ## My tech stack
