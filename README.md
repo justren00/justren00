@@ -1,5 +1,4 @@
-## Hi, I'm Renita! ❀
-
+## Hi, I'm Renita! 👩‍💻
 I'm goint into my 3rd year at UC San Diego studying mathematics and computer science. I love learning about the expansive world of computer science through my coursework, internships, and personal projects! Currently, I'm diving deeper into data science by learning how to build machine learning models. As I work towards becoming a better developer, I'm excited to learn new technologes, work on innovative projects, and contribute to impactful software.
 
 ## My tech stack
@@ -14,7 +13,7 @@ As a break through tech fellow, I am currently learning machine learning foundat
 ## When I'm not coding...
 I'm going on a new sidequest! I love a fun drink (matcha or coffee), shopping, and listening to music. 😋
 
-## Contact me!
+## Contact me ⭐️
 Email: renita.justin@gmail.com | Linkedin: www.linkedin.com/in/renita-justin 
 
 
