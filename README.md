@@ -14,11 +14,8 @@ As a break through tech fellow, I am currently learning machine learning foundat
 ## When I'm not coding...
 I'm going on a new sidequest! I love a fun drink (matcha or coffee), shopping, and listening to music. 😋
 
-## Contact me ⭐️
+## Contact me
 Email: renita.justin@gmail.com | Linkedin: www.linkedin.com/in/renita-justin 
-
-## What I'm Listening to 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31onn24veiv4iqafemikynupd7ou&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color_cover=false&bar_color=ffd9da)](https://spotify-github-profile.kittinanx.com/api/view?uid=31onn24veiv4iqafemikynupd7ou&redirect=true)
 
 
 <!--
